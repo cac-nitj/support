@@ -12,6 +12,6 @@ jobs:
           organization: cac-nitj 
           label: github-invitation
           repo-token: ${{ secrets.GITHUB_TOKEN }}
-          comment: 'Welcome to the community!!<br></br>This is an invitation sent for the GitHub Organisation<br><br>Please check your email and accept the invitation.<br>After you accepted. make the organisation public to show in your GitHub profile'
+          comment: 'Welcome to the community!!<br></br>This is an invitation sent for the GitHub Organisation<br><br>Please check your email and accept the invitation.<br>After you accepted, make the organisation public to show in your GitHub profile. Join us on [Discord](https://discord.gg/ZPEgbqVCXW)'
         env:
           INVITE_TOKEN: ${{ secrets.INVITE_TOKEN }}
