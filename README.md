@@ -1,2 +1,2 @@
 # CAC-NITJ
-Create an Issue to join our organization 
+## Create an Issue to join our organization 
